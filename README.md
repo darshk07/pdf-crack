@@ -10,7 +10,7 @@ PDF Crack is a tool designed to help you recover passwords from PDF files.
 ## Installation
 
 ```sh
-git clone https://github.com/yourusername/pdf-crack.git
+git clone https://github.com/darshk07/pdf-crack.git
 cd pdf-crack
 ```
 
